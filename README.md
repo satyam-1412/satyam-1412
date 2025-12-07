@@ -42,20 +42,19 @@ Full Stack Development • Data Structures & Algorithms • Database Design • 
 
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| **LeetCode** | [@ntulsidasani](https://leetcode.com/ntulsidasani) | 360+ Problems Solved (120+ Medium) |
-| **CodeChef** | [@ntulsidasani](https://www.codechef.com/users/ntulsidasani) | 2★ Rating |
-| **Codeforces** | [@ntulsidasani](https://codeforces.com/profile/ntulsidasani) | Max Rating: 1029 |
+| **LeetCode** | [@satyam_1412](https://leetcode.com/u/satyam_1412) | 140+ Problems Solved  |
+| **CodeChef** | [@satyam_2004](https://www.codechef.com/users/satyam_2004) | 1317 Rating |
+| **Codeforces** | [@sanglesatyam](https://codeforces.com/profileni/sanglesatyam) | Max Rating: 944 |
 
 ---
 
 ## Achievements
 
-- 🏆 Solved **360+ problems** on LeetCode including 120+ Medium difficulty
-- 💻 **166+ contributions** on GitHub
-- ⭐ **2-star** rated on CodeChef
-- 📈 Peak rating of **1029** on Codeforces
+- 🏆 Solved **140+ problems** on LeetCode
+- ⭐ **1317** rated on CodeChef
+- 📈 Peak rating of **994** on Codeforces
 - 🎯 Participated in **"Can U Hack It"** 24-hour Intra-college Hackathon
-- 📚 Scored **97.7 percentile** in JEE Mains (AIR: 35131)
+- 📚 Scored **98.58 percentile** in JEE Mains and JEE advance qualified
 
 ---
 
