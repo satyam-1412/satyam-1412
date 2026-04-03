@@ -42,9 +42,9 @@ Full Stack Development • Data Structures & Algorithms • Database Design • 
 
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| **LeetCode** | [@satyam_1412](https://leetcode.com/u/satyam_1412) | 140+ Problems Solved  |
-| **CodeChef** | [@satyam_2004](https://www.codechef.com/users/satyam_2004) | 1317 Rating |
-| **Codeforces** | [@sanglesatyam](https://codeforces.com/profileni/sanglesatyam) | Max Rating: 944 |
+| **LeetCode** | [@satyam_1412](https://leetcode.com/u/satyam_1412) | 240+ Problems Solved  |
+| **CodeChef** | [@satyam_2004](https://www.codechef.com/users/satyam_2004) |2**
+| **Codeforces** | [@sanglesatyam](https://codeforces.com/profileni/sanglesatyam) | Max Rating: 1090 |
 
 ---
 
