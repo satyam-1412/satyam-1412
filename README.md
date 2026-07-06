@@ -50,9 +50,9 @@ Full Stack Development • Data Structures & Algorithms • Database Design • 
 
 ## Achievements
 
-- 🏆 Solved **140+ problems** on LeetCode
-- ⭐ **1317** rated on CodeChef
-- 📈 Peak rating of **994** on Codeforces
+- 🏆 Solved **375+ problems** on LeetCode
+- ⭐ ** 2 star* rated on CodeChef
+- 📈 Peak rating of **Pupil(1258)** on Codeforces
 - 🎯 Participated in **"Can U Hack It"** 24-hour Intra-college Hackathon
 - 📚 Scored **98.58 percentile** in JEE Mains and JEE advance qualified
 
